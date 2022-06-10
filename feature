@@ -1,5 +1,1 @@
-commit 1
-
-commit 2
-
-commit final
+conflict 2
